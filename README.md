@@ -1,3 +1,5 @@
+4f60bfd9-4aaa-46a4-9937-dd4cf7c9882e Customer guid
+
 <p align="center"><img src="img/Logo512pxWhite.png" alt="SabreDartStudios" width="128"></p>
 <p align="center">
     <h3 align="center">Open World Server (OWS)</h3>
